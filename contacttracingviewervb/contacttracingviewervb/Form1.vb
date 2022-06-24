@@ -18,6 +18,8 @@
     End Sub
 
     Private Sub closebtn_Click(sender As Object, e As EventArgs) Handles closebtn.Click
+        MessageBox.Show("Thank you for your service!")
         Close()
+
     End Sub
 End Class
