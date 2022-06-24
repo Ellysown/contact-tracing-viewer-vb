@@ -82,7 +82,6 @@ Partial Class Form1
         '
         'namebox1
         '
-        Me.namebox1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.namebox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.namebox1.Location = New System.Drawing.Point(192, 74)
         Me.namebox1.Name = "namebox1"
